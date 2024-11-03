@@ -5,14 +5,12 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
 > "When work brings pleasure, it becomes perfect." — Henry Ford
 
 ## Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuriy-shukan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <a href="mailto:shukan.work24@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="60" height="60"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/yuriy-shukan" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:shukan.work24@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
+</a>
 
 ## Languages and Tools:
 <p align="center">
