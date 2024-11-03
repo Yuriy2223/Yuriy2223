@@ -9,6 +9,7 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
 <a href="https://www.linkedin.com/in/yuriy-shukan" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 <a href="mailto:shukan.work24@gmail.com" target="_blank">
@@ -40,7 +41,7 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+    <img src="https://img.icons8.com/color/452/nodejs.png" alt="Node.js" width="60" height="60"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
