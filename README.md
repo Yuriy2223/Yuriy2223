@@ -10,6 +10,7 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:shukan.work24@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
 </a>
@@ -30,5 +31,7 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="60" height="60"/>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="60" height="60"/>
+  </a>
 </p>
