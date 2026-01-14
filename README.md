@@ -28,6 +28,9 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <a href="https://sass-lang.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   </a>
@@ -46,6 +49,12 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="60" height="60"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
   </a>
@@ -58,7 +67,16 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   </a>
+  <a href="https://github.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  </a>
   <a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
   </a>
 </p>
