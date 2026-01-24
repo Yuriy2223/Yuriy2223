@@ -58,6 +58,12 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  </a>
   <a href="https://vitejs.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="60" height="60"/>
   </a>
