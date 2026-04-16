@@ -18,8 +18,6 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
 
 ## Languages and Tools:
 
-## Languages and Tools:
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,ts,redux,nodejs,express,nextjs,nestjs,mongodb,postgresql,docker,vite,figma,git,github,npm,postman,vscode&perrow=8)](https://skillicons.dev)
 
 <!-- <div align="center">
