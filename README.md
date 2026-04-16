@@ -18,7 +18,7 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
 
 ## Languages and Tools:
 
-<p align="center">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   </a>
@@ -85,4 +85,4 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
   <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
   </a>
-</p>
+</div>
