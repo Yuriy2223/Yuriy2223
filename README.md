@@ -8,6 +8,11 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
 
 <a href="https://www.linkedin.com/in/yuriy-shukan" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;<a href="mailto:shukan.work24@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/></a>
 
+## Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,ts,redux,nodejs,express,nextjs,nestjs,mongodb,postgresql,docker,vite,figma,git,github,npm,postman,vscode&perrow=8)](https://skillicons.dev)
+
+
 <!-- <a href="https://www.linkedin.com/in/yuriy-shukan" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a> -->
@@ -17,9 +22,6 @@ I am a Junior Full Stack Developer. For me, the main priorities are development,
 <!-- <a href="mailto:shukan.work24@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40"/>
 </a> -->
-## Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,ts,redux,nodejs,express,nextjs,nestjs,mongodb,postgresql,docker,vite,figma,git,github,npm,postman,vscode&perrow=8)](https://skillicons.dev)
 
 <!-- <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
